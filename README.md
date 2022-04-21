@@ -21,7 +21,7 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 ## News api used
 - https://newsapi.org/
 ## Screenshots
-<img src= "https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width= "100">  ![WhatsApp Image 2022-04-21 at 11 44 32 (1)](https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg)
+<img src= "https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width= "100">  ## ww ![WhatsApp Image 2022-04-21 at 11 44 32 (1)](https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg)
 ## Home page
 
 ![WhatsApp Image 2022-04-21 at 11 44 32](https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg )
