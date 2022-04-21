@@ -21,4 +21,6 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 - https://newsapi.org/
 ## SCREENSHOTS
 <img width="400"  height="100" alt="2022-01-23" src="https://user-images.githubusercontent.com/103620871/164385489-6d9a4e0b-9d92-4661-b3d1-3e6ba77478b3.png">
+![download](https://user-images.githubusercontent.com/103620871/164390866-a0ae43f2-2b5a-4017-9ed3-34b59058d111.jpg)
+
 
