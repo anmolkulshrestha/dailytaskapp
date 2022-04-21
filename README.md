@@ -24,7 +24,7 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 
 ## Home page
 
-![WhatsApp Image 2022-04-21 at 11 44 32](https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg)
+![WhatsApp Image 2022-04-21 at 11 44 32](https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg )
 ## News Article
 
 ![WhatsApp Image 2022-04-21 at 11 44 32 (1)](https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg)
@@ -48,5 +48,11 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 ![WhatsApp Image 2022-04-21 at 11 44 32 (9)](https://user-images.githubusercontent.com/103620871/164394662-7721cee4-9281-48aa-9bcf-bb5dc82ac78e.jpeg)
 
 
+## alpha
 
+![WhatsApp Image 2022-04-21 at 11 44 32 (9)](https://user-images.githubusercontent.com/103620871/164396141-2f263abb-ed36-4b26-9bab-04d1b5e59ee2.jpeg)
+
+
+
+![WhatsApp Image 2022-04-21 at 11 44 32](https://user-images.githubusercontent.com/103620871/164396184-02e79b8e-f927-419b-a3ef-14d734b0269a.jpeg)
 
