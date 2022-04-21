@@ -23,5 +23,7 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 <img width="400"  height="100" alt="2022-01-23" src="https://user-images.githubusercontent.com/103620871/164385489-6d9a4e0b-9d92-4661-b3d1-3e6ba77478b3.png">
 < img width="400"  height="100"  src="https://user-images.githubusercontent.com/103620871/164391093-7ba1e096-b10e-469c-ba25-250dd0182221.png">
 
+<img width="960" alt="2022-02-04" src="https://user-images.githubusercontent.com/103620871/164391971-be3005a2-e06a-4424-9fea-7f9501dd6a31.png">
+
 
 
