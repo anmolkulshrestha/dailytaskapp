@@ -21,37 +21,37 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 ## News api used
 - https://newsapi.org/
 ## Screenshots
-<img src= "https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width= "100">
+<img src= "https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width= "160">
 ## Home page
 
-<img src= "https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width= "100">
+<img src= "https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width= "160">
 
 ## News Article
-<img src= "https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg" width= "100">
+<img src= "https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg" width= "160">
 
 
 
 
 ## Saving Article by clicking save button
 
-<img src="https://user-images.githubusercontent.com/103620871/164394180-1a85a3e8-6743-4ec5-a3b5-60b717884b2b.jpeg" width = "100">
+<img src="https://user-images.githubusercontent.com/103620871/164394180-1a85a3e8-6743-4ec5-a3b5-60b717884b2b.jpeg" width = "160">
 ## Sharing Article
 
 
 ## Writting My thoughts about Article
-<img src ="https://user-images.githubusercontent.com/103620871/164394416-cd666a3b-98c4-4ce7-89b8-0baec67a7924.jpeg" width="100">
+<img src ="https://user-images.githubusercontent.com/103620871/164394416-cd666a3b-98c4-4ce7-89b8-0baec67a7924.jpeg" width="160">
 
 ## Sharing Your Thoughts
-<img src ="https://user-images.githubusercontent.com/103620871/164394531-9630a12a-344e-4242-af05-cd74218b6ba8.jpeg" width="100">
+<img src ="https://user-images.githubusercontent.com/103620871/164394531-9630a12a-344e-4242-af05-cd74218b6ba8.jpeg" width="160">
 
 ## Viewing Saved Article
 <img src ="https://user-images.githubusercontent.com/103620871/164394592-96e2796c-3aad-4f5f-8721-edba4db93d08.jpeg" width="100">
 
 ## Deleting Saved Article by Swipe
-<img src ="https://user-images.githubusercontent.com/103620871/164394617-a05698ce-3b64-43c2-9ad4-5fcbef2fc855.jpeg" width="100">
+<img src ="https://user-images.githubusercontent.com/103620871/164394617-a05698ce-3b64-43c2-9ad4-5fcbef2fc855.jpeg" width="160">
 
 ## Undo Delete by clicking on undo in Snackbar at bottom
-<img src ="https://user-images.githubusercontent.com/103620871/164394662-7721cee4-9281-48aa-9bcf-bb5dc82ac78e.jpeg" width="100">
+<img src ="https://user-images.githubusercontent.com/103620871/164394662-7721cee4-9281-48aa-9bcf-bb5dc82ac78e.jpeg" width="160">
 
 
 
