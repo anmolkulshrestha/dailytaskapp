@@ -19,6 +19,6 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 - Save article for feature reference
 ## News api used
 - https://newsapi.org/
-##SCREENSHOTS
-<img width="960" alt="2022-01-23" src="https://user-images.githubusercontent.com/103620871/164385489-6d9a4e0b-9d92-4661-b3d1-3e6ba77478b3.png">
+## SCREENSHOTS
+<img width="400" alt="2022-01-23" src="https://user-images.githubusercontent.com/103620871/164385489-6d9a4e0b-9d92-4661-b3d1-3e6ba77478b3.png">
 
